@@ -3,7 +3,7 @@
 
 # Hello there! 👋🏻 I am MD. Nizam Uddin Tuhin ! 
 
-🙋🏻‍♂️,C Sharp Web Developer Using Asp Dot Net.
+🙋🏻‍♂️~~ .NET & C# Programmer,
 
  
  
