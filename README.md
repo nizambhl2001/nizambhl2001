@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/NishanAkterRaj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="NishanAkterRaj" /></a></p><br><br>
+<p><a href="https://ko-fi.com/nizambhl2001)"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="" /></a></p><br><br>
 
 
-<p "><img align="center" src="https://github-readme-stats.vercel.app/api?username=NishanAkterRaj&show_icons=true&locale=en" alt="akter" /></p>
+<p "><img align="center" src="https://github-readme-stats.vercel.app/api?username=nizambhl2001&show_icons=true&locale=en" alt="nizam" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NishanAkterRaj" alt="akter"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizambhl2001" alt="nizam"/></p>
