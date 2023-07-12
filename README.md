@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **asp.net using C Sharp** 
 
 
-- 💬 Ask me about **react, vue and gsap**
+- 💬 Ask me about **react, vue and Angular**
 
 
 - 📫 How to reach Contact me **nizamddin2001@gmail.com**
