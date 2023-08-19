@@ -1,7 +1,7 @@
 
 
 
-# Hello there! 👋🏻 I am MD. Nizam Uddin Tuhin ! 
+# Hi! 👋🏻 I am MD. Nizam Uddin Tuhin ! 
 
 🙋🏻‍♂️~~ .NET & C# Programmer,
 
