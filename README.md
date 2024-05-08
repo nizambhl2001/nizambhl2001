@@ -53,8 +53,6 @@ Here are some ideas to get you started:
 </p>
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nizambhl2001&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizambhl2001&theme=tokyonight)
@@ -63,8 +61,6 @@ Here are some ideas to get you started:
 
 <p><a href="https://ko-fi.com/nizambhl2001)"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="" /></a></p><br><br>
 
-
-<p><a href="https://ko-fi.com/nizambhl2001)"> <img align="left" src="[https://cdn.ko-fi.com/cdn/kofi3.png?v=3](https://res.cloudinary.com/practicaldev/image/fetch/s--gB5HhZkA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buymeacoffee.com/buttons/default-blue.png)" height="50" width="210" alt="" /></a></p><br><br>
 
 
 
