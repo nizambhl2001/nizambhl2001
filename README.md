@@ -7,9 +7,7 @@
 
 ## 🙋🏻‍♂️~~ .NET & C# Programmer,
 
-
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | 
-
+Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | 
 
 **MD. Nizam Uddin Tuhin ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,12 +50,12 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-# Blog posts
+## 🏆 Github Status :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nizambhl2001&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizambhl2001&theme=tokyonight)
 
-# Support
+## Support
 
 <p><a href="https://ko-fi.com/nizambhl2001)"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="" /></a></p><br><br>
 
