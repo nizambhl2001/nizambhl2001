@@ -2,11 +2,10 @@
 
 
 ## Hi! 👋🏻 I am MD. Nizam Uddin Tuhin ! 
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 
-🙋🏻‍♂️~~ .NET & C# Programmer,
+## 🙋🏻‍♂️~~ .NET & C# Programmer,
 
- 
- 
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | 
 
