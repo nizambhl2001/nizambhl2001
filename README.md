@@ -2,7 +2,8 @@
 
 
 ## Hi! 👋🏻 I am MD. Nizam Uddin Tuhin ! 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=nizambhl2001.CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/nizambhl2001?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 ## 🙋🏻‍♂️~~ .NET & C# Programmer,
 
@@ -51,9 +52,26 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
-
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/charalambosioannou"
 
 
 
