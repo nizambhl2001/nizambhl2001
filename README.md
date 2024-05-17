@@ -11,7 +11,6 @@ Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire: 
 
 **MD. Nizam Uddin Tuhin ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
    
 - 🔭 I’m currently working on  <a href="https://www.isdb-bisew.org">**IsDB-BISEW Scholarship Program**</a>
 
