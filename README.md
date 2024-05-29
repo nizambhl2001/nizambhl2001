@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm MD. Nizam Uddin Tuhin</h1>
-I am Md Nizam Uddin Tuhin, a dedicated software engineer driven by the pursuit of excellence. With over eight months of immersive experience in ERP development, I have honed my skills in delivering impeccable solutions while excelling in team environments.
+a dedicated software engineer driven by the pursuit of excellence. With over eight months of immersive experience in ERP development, I have honed my skills in delivering impeccable solutions while excelling in team environments.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizamddin2001&label=Profile%20views&color=0e75b6&style=flat" alt="nizamddin2001" /> </p>
