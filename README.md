@@ -14,7 +14,7 @@ a dedicated software engineer driven by the pursuit of excellence. With over eig
 
 - 🔭 I’m currently working **at Pioneer Group BD**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Asp.Net Core & Angular**
 
 - 💬 Ask me about **SQL .Net Core Angular**
 
