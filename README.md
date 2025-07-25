@@ -12,7 +12,7 @@ a dedicated software engineer driven by the pursuit of excellence. With over eig
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working **at Software Arena Limited.**
+- 🔭 I’m currently working **at Pioneer Group BD**
 
 - 🌱 I’m currently learning **DevOps**
 
