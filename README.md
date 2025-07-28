@@ -29,7 +29,7 @@ a dedicated software engineer driven by the pursuit of excellence. With over eig
 <p align="left">
 <a href="https://www.linkedin.com/in/md-nizam-uddin-tuhin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-nizam-uddin-tuhin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nizamddintuhin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nizamddin2001" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nizamddintuhin" height="30" width="40" />
 </a>
 
 </p>
