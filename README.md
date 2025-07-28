@@ -13,7 +13,7 @@
 a dedicated software engineer driven by the pursuit of excellence. With over eight months of immersive experience in ERP development, I have honed my skills in delivering impeccable solutions while excelling in team environments.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nizamuddintuhin&label=Profile%20views&color=0e75b6&style=flat" alt="nizamddin2001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nizamddin2001&label=Profile%20views&color=0e75b6&style=flat" alt="nizamddin2001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -29,7 +29,7 @@ a dedicated software engineer driven by the pursuit of excellence. With over eig
 <p align="left">
 <a href="https://www.linkedin.com/in/md-nizam-uddin-tuhin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-nizam-uddin-tuhin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nizamddintuhin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nizamuddintuhin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nizamddin2001" height="30" width="40" />
 </a>
 
 </p>
@@ -43,11 +43,11 @@ a dedicated software engineer driven by the pursuit of excellence. With over eig
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizamuddintuhin" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizamddin2001" alt="Top Langs" />
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nizamuddintuhin&show_icons=true" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nizamddin2001&show_icons=true" alt="GitHub stats" />
     </td>
   </tr>
 </table>
@@ -55,10 +55,10 @@ a dedicated software engineer driven by the pursuit of excellence. With over eig
 <table>
   <tr>
     <td>
-      <img src="https://metrics.lecoq.io/nizamuddintuhin" alt="GitHub metrics" />
+      <img src="https://metrics.lecoq.io/nizamddin2001" alt="GitHub metrics" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=nizamuddintuhin" alt="GitHub streak stats" />
+      <img src="https://streak-stats.demolab.com/?user=nizamddin2001" alt="GitHub streak stats" />
     </td>
   </tr>
 </table>
