@@ -1,11 +1,7 @@
-
 <p align="center">
-  <img 
-    src="https://scontent.fdac107-1.fna.fbcdn.net/v/t39.30808-6/502378230_2425790327800470_1800131747790661700_n.png?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=WnlRru9z3WoQ7kNvwFuSoYH&_nc_oc=AdlAIKJIC76pbDwhijqlyyQmHxIH3SUZ3OXkjZPaZQIMrobLSpZKmn2pgDzvmEv0cJk&_nc_zt=23&_nc_ht=scontent.fdac107-1.fna&_nc_gid=_bG5UNxs7j_mz2zkz7LPPQ&oh=00_AfRt2yUD920Vwl7qH7LWbKy1jjn1FAqy_Zsp1Hy_pLc06A&oe=688D1C3B" 
-    alt="GitHub Banner" 
-    style="height: 200px; width: 1000px; object-fit: cover;" 
-  />
+  <img src=".github/workflows/banner.png" alt="GitHub Banner" style="height: 300px; width: 1000px;padding-bottom:10px; object-fit: cover; />
 </p>
+
 
 
 
